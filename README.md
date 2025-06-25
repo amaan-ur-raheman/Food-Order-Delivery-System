@@ -45,11 +45,6 @@ A modern, responsive web application for restaurant food ordering, built with PH
 
 ---
 
-## Screenshots
-
-> _Add screenshots here for homepage, food menu, order form, and admin dashboard for a more attractive README._
-
----
 
 ## Project Structure
 
